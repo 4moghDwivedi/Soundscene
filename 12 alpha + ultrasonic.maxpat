@@ -40,19 +40,6 @@
 		"assistshowspatchername" : 0,
 		"boxes" : [ 			{
 				"box" : 				{
-					"id" : "obj-578",
-					"maxclass" : "newobj",
-					"numinlets" : 0,
-					"numoutlets" : 0,
-					"patching_rect" : [ 475.480000000000018, 416.769999999999982, 100.0, 22.0 ],
-					"presentation" : 1,
-					"presentation_rect" : [ 475.480000000000018, 416.769999999999982, 29.0, 22.0 ],
-					"text" : "jit.kl"
-				}
-
-			}
-, 			{
-				"box" : 				{
 					"id" : "obj-577",
 					"maxclass" : "newobj",
 					"numinlets" : 2,
@@ -3892,7 +3879,6 @@
 					"patching_rect" : [ 3440.0, 2388.0, 330.0, 94.0 ],
 					"presentation" : 1,
 					"presentation_rect" : [ 476.800007104873657, 99.20000147819519, 318.0, 94.0 ],
-					"text" : "welcome!",
 					"textjustification" : 1
 				}
 
@@ -16273,10 +16259,10 @@
 , 			{
 				"box" : 				{
 					"bgcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
-					"elementcolor" : [ 0.99, 0.0, 0.0, 1.0 ],
+					"elementcolor" : [ 0.0, 0.0, 0.0, 1.0 ],
 					"floatoutput" : 1,
 					"id" : "obj-344",
-					"knobcolor" : [ 0.0, 0.01, 0.0, 1.0 ],
+					"knobcolor" : [ 0.0, 1.0, 0.0, 1.0 ],
 					"maxclass" : "slider",
 					"numinlets" : 1,
 					"numoutlets" : 1,

@@ -1,6 +1,10 @@
 # Soundscene
 
-Project files for [Sound Scene](https://www.soundscene.org)
+Project files for [Sound Scene 2025](https://www.soundscene.org).
+
+Please find the proposal [here] (https://www.amoghdwivedi.com/sound-scene-2025).
+
+Here is a [YouTube video](https://youtu.be/LThYEzDfyGc) which demonstrates this patch.
 
 ### About
 [Shao Wen Chew](https://wenchew.com)
